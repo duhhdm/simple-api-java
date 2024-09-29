@@ -57,7 +57,7 @@ public class ProdutoControllerTest {
     @DisplayName("test fail")
     @Test
     void testGivenNewProduto_whenCreate_thenFail() throws Exception{
-        //fail("Aqui está um erro no momento certo");
+        fail("Aqui está um erro no momento certo");
     }
     
 }
