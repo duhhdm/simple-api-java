@@ -1,6 +1,6 @@
 # Simple API Java
 
-Aplicação API para teste
+Aplicação API para teste da branch 1
 
 ## Pré-requisitos
 
